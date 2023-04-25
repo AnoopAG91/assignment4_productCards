@@ -7,7 +7,7 @@ function App() {
     {
       productId: 1,
       productPic: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvZXN8ZW58MHx8MHx8&w=400&h=400q=80",
-      productName: "Caual Shoe",
+      productName: "Casual Shoe",
       productBrand: "Nike",
       productDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venia..",
       productPrice:"10$", 
